@@ -34,7 +34,7 @@ SuperCalc is a versatile Windows Forms calculator application that I developed i
 
 ### Matrix Operations
 - Matrix addition and multiplication
-- Support for matrices up to 3×3
+- Ability to work with matrices of any size
 - User-definable matrix dimensions with automatic validation
 - The app automatically determines if operations are possible based on matrix dimensions
 - Determinant calculations
